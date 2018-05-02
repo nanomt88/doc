@@ -1,2 +1,2 @@
-# doc
+# document
 文档
